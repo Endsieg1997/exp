@@ -1,0 +1,5 @@
+Conflict practice file
+
+Shared line: original text before either student changes it.
+
+Keep this file for Exercise 3.
