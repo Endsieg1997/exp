@@ -1,5 +1,5 @@
 Conflict practice file
 
-Shared line: original text before either student changes it.
+Shared line: Student B changed this line too.
 
 Keep this file for Exercise 3.
